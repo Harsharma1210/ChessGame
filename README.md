@@ -6,4 +6,6 @@ The approach was to create a class for the board, a class for a tile, and sepera
 
 The main method is located "in Chess.java". 
 
+This project was built using VSCode.
+
 Project Grade: 100/100
